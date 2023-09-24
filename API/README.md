@@ -32,4 +32,4 @@ Acesso da documentação via [http://localhost:5000/#/](http://localhost:5000/#/
 
 
 
-A parte complementar do projeto referente ao Front-End esta presente no outro diretório do Git Hub: https://github.com/S3GFelipe/Front.git
+A parte complementar do projeto referente ao Front-End esta presente no outro diretório do Git Hub: https://github.com/S3GFelipe/MVP3-Front.git
