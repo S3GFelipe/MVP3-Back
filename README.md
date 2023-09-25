@@ -1,4 +1,4 @@
-Instruções de uso do Back-End do projeto de API do aluno Felipe Florêncio de Andrade
+Instruções de uso do Back-End do MVP3 do aluno Felipe Florêncio de Andrade
 
 
 # Passo a passo via terminal de como acessar a documentação  da API 
